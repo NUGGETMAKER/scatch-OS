@@ -1,0 +1,1 @@
+move the "Scratch OS 1.1" to "C:/"
